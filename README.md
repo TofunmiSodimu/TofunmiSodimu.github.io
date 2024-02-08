@@ -1,3 +1,3 @@
 # TofunmiSodimu.github.io
 Personal Website
-My anme is Tofunmi Sodimu.
+My name is Tofunmi Sodimu.
