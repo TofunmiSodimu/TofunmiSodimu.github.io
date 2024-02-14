@@ -6,7 +6,7 @@ Mild Cognitive Impairment (MCI) is an early-stage decline in memory, language pe
 - Programmed a Stretch RE2 robot to adeptly capture images from varied angles, leveraging a pre-trained object detection algorithm for accurate classification.
 - Co-implemented a JSON database for object information storage and retrieval.
 - Demonstrated effective problem-solving skills for a user-friendly solution.
-[### Github](https://github.com/JuanRobledo12/blue_stretch)
+- [Github](https://github.com/JuanRobledo12/blue_stretch)
 
 [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
 
