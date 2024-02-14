@@ -7,4 +7,6 @@
   [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
 
 #### Path Planning to Control Robotic Arm for Suturing
-[Please see the linked page](https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics)
+<p align="center">
+  <img src="https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics" alt="Please see the linked page"/>
+</p>
