@@ -4,4 +4,4 @@
 - Programmed a Stretch RE2 robot to adeptly capture images from varied angles, leveraging a pre-trained object detection algorithm for accurate classification.
 - Co-implemented a JSON database for object information storage and retrieval.
 - Demonstrated effective problem-solving skills for a user-friendly solution.
-  [![Robot](url('static/assets/img/THUMBNAIL.png'))](https://www.youtube.com/watch?v=QUB79UTbwvE)
+  [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
