@@ -11,9 +11,11 @@
 - Presented project updates and results, at least once a week, to team members and collaborators to drive project completion and summarized observations/results of projects in engineering reports.
 - Placed 4th in a country-wide poster competition for SN interns.
 
-<p align="center">
-  <img src="static/assets/img/certificate.png" alt="Certificate" width="500"/>
-</p>
+<div class="col-lg-4"> 
+    <p align="center">
+      <img src="static/assets/img/certificate.png" alt="Certificate"/>
+    </p>
+</div>
                     
 
 #### Student Research Assistant, Ding Lab
