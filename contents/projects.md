@@ -3,16 +3,16 @@
 Mild Cognitive Impairment (MCI) is an early-stage decline in memory, language perception, visual perception, and/or other cognitive abilities that is greater than expected for an individual’s age and education level, but that does not greatly impact their ability to perform everyday activities. Research has shown that this condition is present in 3-19% of people over the age of 65. One common symptom of this condition is misplacing objects due to the inability to recall where the item was last kept. To address this issue, we developed a robot to keep track of commonly misplaced objects and recall their location upon request. In our implementation, the robot routinely navigates the home based on a pre-generated map and captures images of the surfaces found at each of the pre-set waypoints. These images are passed through an object classification model to identify the items within them. The names of the identified objects, timestamp, and location are stored in a JSON database. Upon request by the user, the database is scanned for all instances of the missing object, and the associated images are displayed on a screen for the user to confirm that it is indeed the object they are searching for. Finally, the robot leads the user to the object’s location and points at it.
 
 - [Github](https://github.com/JuanRobledo12/blue_stretch)
+<br/><br/>
 
+[![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
 
-<p align="center">
-  [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
-</p>
-
+<br/><br/>
 
 #### Path Planning to Control Robotic Arm for Suturing
 [Please see the linked page](https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics)
 
+<br/><br/>
 
 #### Bladder Fluid Flowscope, Senior Design Project Fall 2021 – Spring 2022
 - Developed the electrical schematic and implemented the circuitry for the device enabling us to measure volumes of 0 – 1000mL with an accuracy of +/- 4mL per our client’s specifications.
