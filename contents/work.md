@@ -12,7 +12,7 @@
 - Placed 4th in a country-wide poster competition for SN interns.
 
 <p align="center">
-  <img src="static/assets/img/certificate.png" alt="Certificate" width="200"/>
+  <img src="static/assets/img/certificate.png" alt="Certificate" width="500"/>
 </p>
                     
 
