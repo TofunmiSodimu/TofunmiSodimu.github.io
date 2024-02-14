@@ -3,4 +3,4 @@
   
 
 
-- Robotic Assistsant for Finding Misplaced Objects
+- Robotic Assistant for Finding Misplaced Objects
