@@ -1,9 +1,15 @@
 
-Tofunmi is a graduate student at Georgia Institute of Technology, Atlanta, currently obtaining a Master of Science in Robotics degree. She also has a Bachelor of Science in Biomedical Engineering degree from the University of Texas at Dallas. She is interested in and has experience working on a variety of medical devices/robotics projects, from designing and building prototypes to programming them. These devices/projects include a robot to help individuals with mild cognitive impairment (MCI) find misplaced objects, a code for the robotic navigation of a maze by using a supervised machine learning model to classify signs on the wall, a 5 degree of freedom MATLAB/Arduino controlled robotic arm that can be used to make medical sutures, a flow scope which measures the volume of fluid perfused into the bladder during urological procedures (patent pending), and a Light Sheet Fluorescent Microscope for cardiac related studies in the neonatal mouse. These projects have aided in the development of her research skills and increased her knowledge on the topics of medicine, robotics, optics and imaging.
+Tofunmi is an MS student in Robotics interested in developing robots that improve the quality of life of individuals across all stages of life. She is interested in and has experience working on a variety of medical devices/robotics projects, from designing and building prototypes to programming them. These projects have aided in the development of her research skills and increased her knowledge on the topics of medicine, robotics, optics and imaging.
 
 #### Email
 tofunmi.sodimu@gatech.edu
 tofsodimu@gmail.com
+
+#### Linkedin
+www.linkedin.com/in/tofunmisodimu
+
+#### Github
+https://github.com/TofunmiSodimu
 
 #### Education
 2022.08 - present, Robotics, Georgia Institute of Technology.
@@ -12,3 +18,6 @@ tofsodimu@gmail.com
 
 #### Research Intersts
 Robotics, Machine Learning, Artificial Intelligence, Computer Vision.
+
+#### Technical Skills
+Python, ROS2, C++, MATLAB, NI LabVIEW, Arduino, SolidWorks, SQL, MS Office
