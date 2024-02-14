@@ -4,10 +4,15 @@ Mild Cognitive Impairment (MCI) is an early-stage decline in memory, language pe
 
 - [Github](https://github.com/JuanRobledo12/blue_stretch)
 
-[![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
+
+<p align="center">
+  [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
+</p>
+
 
 #### Path Planning to Control Robotic Arm for Suturing
 [Please see the linked page](https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics)
+
 
 #### Bladder Fluid Flowscope, Senior Design Project Fall 2021 – Spring 2022
 - Developed the electrical schematic and implemented the circuitry for the device enabling us to measure volumes of 0 – 1000mL with an accuracy of +/- 4mL per our client’s specifications.
