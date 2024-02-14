@@ -10,7 +10,7 @@
 - Designed a phantom (standardized measuring object) for the implementation of accuracy tests for SN’s CAS.
 - Presented project updates and results, at least once a week, to team members and collaborators to drive project completion and summarized observations/results of projects in engineering reports.
 - Placed 4th in a country-wide poster competition for SN interns.
-![Certificate](static/assets/img/certificate.png)
+                                                                                                    ![Certificate](static/assets/img/certificate.png)
 
 #### Student Research Assistant, Ding Lab, Richardson, TX. October 2020 – May 2022
 - Developed a Light Sheet Fluorescent Microscopy (LSFM) system with a 2-micron axial resolution, limited risk of photobleaching, and optical sectioning capabilities for cardiac related studies in the neonatal mouse.
