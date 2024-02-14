@@ -11,9 +11,10 @@
 - Presented project updates and results, at least once a week, to team members and collaborators to drive project completion and summarized observations/results of projects in engineering reports.
 - Placed 4th in a country-wide poster competition for SN interns.
 
-<div class="col-lg-4"><img class="shadow" src="static/assets/img/certificate.png"></div>
+<p align="center">
+  <img src="static/assets/img/certificate.png" alt="Certificate" width="500"/>
+</p>
                     
-
 #### Student Research Assistant, Ding Lab
 - Developed a Light Sheet Fluorescent Microscopy (LSFM) system with a 2-micron axial resolution, limited risk of photobleaching, and optical sectioning capabilities for cardiac related studies in the neonatal mouse.
 - Controlled system using LabVIEW for synchronized stage movement, laser propagation, and image acquisition, enabling us to capture images of the heart in < 1 minute.
