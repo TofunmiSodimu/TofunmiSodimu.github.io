@@ -1,5 +1,5 @@
 
-Tofunmi is an MS student in Robotics interested in developing robots that improve the quality of life of individuals across all stages of life. She is interested in and has experience working on a variety of medical devices/robotics projects, from designing and building prototypes to programming them. These projects have aided in the development of her research skills and increased her knowledge on the topics of medicine, robotics, optics and imaging.
+Tofunmi is an MS student in Robotics interested in developing robots that improve the quality of life of individuals across all stages of life. She is interested in and has experience working on a variety of medical devices/robotics projects, from designing and building prototypes to programming them. These projects have aided in the development of her research skills and increased her knowledge on the topics of robotics, engineering, medicine, optics and imaging.
 
 #### Email
 tofunmi.sodimu@gatech.edu
