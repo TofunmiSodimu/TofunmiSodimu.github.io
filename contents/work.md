@@ -21,3 +21,7 @@
 - Controlled system using LabVIEW for synchronized stage movement, laser propagation, and image acquisition, enabling us to capture images of the heart in < 1 minute.
 - Used image processing software (e.g., Amira, ImageJ) for filtering, stitching, deconvolution, and volume rendering of generated images for ease of visualization and analysis.
 - Presented research at the 2021 BMES conference and authored a paper.
+
+<p align="center">
+  <img src="static/assets/img/bmes3.jpg" alt="Poster" width="500"/>
+</p>
