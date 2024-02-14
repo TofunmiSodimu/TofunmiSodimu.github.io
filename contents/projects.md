@@ -5,3 +5,6 @@
 - Co-implemented a JSON database for object information storage and retrieval.
 - Demonstrated effective problem-solving skills for a user-friendly solution.
   [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
+
+#### Path Planning to Control Robotic Arm for Suturing
+[Please see the linked page](https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics)
