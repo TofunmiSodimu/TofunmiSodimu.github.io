@@ -6,7 +6,8 @@ Mild Cognitive Impairment (MCI) is an early-stage decline in memory, language pe
 
 [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
 
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=QUB79UTbwvE" frameborder="0" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=QUB79UTbwvE" frameborder="0" allowfullscreen name="iframe_video1"></iframe>
+<a href="static/assets/img/THUMBNAIL.png>" target="iframe_video1"><img src="<...>"/></a>
 
 #### Path Planning to Control Robotic Arm for Suturing
 [Please see the linked page](https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics)
