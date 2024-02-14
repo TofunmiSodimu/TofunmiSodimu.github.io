@@ -6,9 +6,6 @@ Mild Cognitive Impairment (MCI) is an early-stage decline in memory, language pe
 
 [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
 
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=QUB79UTbwvE" frameborder="0" allowfullscreen name="iframe_video1"></iframe>
-<a href="static/assets/img/THUMBNAIL.png>" target="iframe_video1"><img src="<...>"/></a>
-
 #### Path Planning to Control Robotic Arm for Suturing
 [Please see the linked page](https://amritpal-001.github.io/projects/2022-medical-robotics-kinematics)
 
@@ -17,6 +14,4 @@ Mild Cognitive Impairment (MCI) is an early-stage decline in memory, language pe
 - Developed an Arduino program to determine volume based on the voltage signal from the load cell and the density of the fluid, and to display the calculated volume, to the nearest mL, in real time.
 - Provided effective leadership for a group of 5 students leading to the successful completion of the project.
 - Maintained regular and effective communication between client, team mentor, and team members.
-<p align="center">
-  <img src="static/assets/img/senior design showcase.jpeg" alt="Flowscope" width="500"/>
-</p>
+
