@@ -1,7 +1,7 @@
 #### Kelp Segmentation 
 This project is concerned with the development of a model that can map and detect kelp forests (an ocean community made up of dense groupings of kelps) in satellite images, in order to empower conservation efforts. The satellite images were processed and used to calculate the Normalized Difference Water Index (NDWI) and Normalized Difference Vegetation Index (NDVI) parameters that are useful in detecting the presence/absence of vegetation. These values, as well as the Near Infrared channel values, were then used to train a U-Net semantic segmentation model that outputs a masked image (kelp or no kelp).
 
-##### Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning
+##### Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning, Pytorch, Tensorflow, Scikit Learn, MatplotLib, Numpy, Pandas
 
 [Kelp Segmentation Repo](https://github.com/nadira30/kelp_segmentation)
 <br/><br/>
@@ -9,7 +9,7 @@ This project is concerned with the development of a model that can map and detec
 #### Anomaly Detection of Object Locations
 By being able to detect when an object is an unusual location, we can optimize the system described in the 'Robotic Assistsant for Finding Misplaced Objects' project to premptively identify misplaced ojects, and to take certain follow-up actions. For this project, I have developed a CNN model that is trained on scene graphs of a person's household routine over 50 days (HOMER-PLUS Dataset). The model's output indicates whether an object is in anomalous location or not. Please see the Github repo for more info on the project. 
 
-##### Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning
+##### Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning, Pytorch, Tensorflow, Scikit Learn, MatplotLib, Numpy, Pandas
 
 [Anomaly Detection Repo](https://github.com/TofunmiSodimu/Novelty-Detection)
 <br/><br/>
