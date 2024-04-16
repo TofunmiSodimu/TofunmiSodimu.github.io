@@ -7,7 +7,7 @@ This project is concerned with the development of a model that can map and detec
 <br/><br/>
 
 #### Anomaly Detection of Object Locations
-By being able to detect when an object is an unusual location, we can optimize the system described in the 'Robotic Assistsant for Finding Misplaced Objects' project to premptively identify misplaced ojects, and to take certain follow-up actions. For this project, I have developed a CNN model that is trained on scene graphs of a person's household routine over 50 days (HOMER-PLUS Dataset - https://github.com/Maithili/HOMER_PLUS/tree/main). The model's output indicates whether an object is in anomlaous location or not. Please see the Github repo for more info on the project. 
+By being able to detect when an object is an unusual location, we can optimize the system described in the 'Robotic Assistsant for Finding Misplaced Objects' project to premptively identify misplaced ojects, and to take certain follow-up actions. For this project, I have developed a CNN model that is trained on scene graphs of a person's household routine over 50 days (HOMER-PLUS Dataset). The model's output indicates whether an object is in anomalous location or not. Please see the Github repo for more info on the project. 
 
 ##### Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning
 
