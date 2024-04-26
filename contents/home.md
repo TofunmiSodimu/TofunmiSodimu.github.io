@@ -20,4 +20,7 @@ https://github.com/TofunmiSodimu
 Robotics, Machine Learning, Artificial Intelligence, Computer Vision
 
 #### Technical Skills
-Python, ROS2, C++, MATLAB, NI LabVIEW, Arduino, SolidWorks, SQL, MS Office
+Programming Languages: Python, C++, C, JavaScript, MATLAB, Arduino, NI LabVIEW                     
+ML/DL Frameworks: TensorFlow, Pytorch
+Robotics: ROS, ROS2
+Data Analysis: NumPy, Pandas, Scikit-Learn, OpenCV, MaatplotLib
