@@ -12,7 +12,7 @@ www.linkedin.com/in/tofunmisodimu
 https://github.com/TofunmiSodimu
 
 #### Education
-2022.08 - present, Robotics, Georgia Institute of Technology
+2022.08 - 2024.05, Robotics, Georgia Institute of Technology
 
 2018.08 - 2022.05, Bsc Biomedical Engineering, University of Texas at Dallas
 
