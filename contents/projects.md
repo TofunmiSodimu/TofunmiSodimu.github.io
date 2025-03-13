@@ -4,7 +4,6 @@ This project introduces the problem of kelp forest conservation, highlighting th
 <p align="center">
   <img src="static/assets/img/kelp.png" alt="Results of Kelp Segmentation" width="500"/>
 </p>
-*Results of Kelp Segmentation Model.*
 
 Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning, Pytorch, Tensorflow, Scikit Learn, MatplotLib, Numpy, Pandas
 
@@ -24,11 +23,11 @@ Skills/FrameWorks/Tools Used: Python programming, Robotic Operating System (ROS)
 
 [Robotic Assistant Repo](https://github.com/JuanRobledo12/blue_stretch)
 
-<a href="https://www.youtube.com/watch?v=QUB79UTbwvE" target="_blank">
- <img src="static/assets/img/THUMBNAIL.png" alt="Robotic Assistant" width="240" height="180" border="10" />
-</a>
-
-[![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=QUB79UTbwvE" target="_blank">
+   <img src="static/assets/img/THUMBNAIL.png" alt="Robotic Assistant" width="500" height="262" border="0" />
+  </a>
+</p>
 
 #### Path Planning to Control Robotic Arm for Suturing
 In this work, my partner and I conduct path planning and end effector modifications for a 5 DOF xARM robot, computing forward kinematics and implementing resolved rates for path planning, with findings transferred to the physical robot using Arduino. Additionally, we provide access to MATLAB code for simulations and final demo videos. Suturing, a critical medical procedure, often poses challenges such as tediousness and dependency on practitioner dexterity, motivating the need for automation, particularly in minimally-invasive procedures. While existing Robotic Surgical Assistants (RSAs) address this need, we aim to demonstrate automated suturing with an already available robotic arm, from assembly to modifications, forward kinematics determination, path planning, and communication establishment. The 5 DOF + gripper robotic arm, purchased from Lewansoul, is described along with modifications to enhance needle grip. Forward kinematics are derived and validated through MATLAB simulations, and path planning involves resolved rates algorithm implementation for both straight needle insertion and scenarios with constrained joint angles. Communication between the robotic arm, MATLAB, and Arduino is established for control and feedback. A tissue replica is developed to demonstrate suturing, with adjustments made to accommodate the robotic arm's accuracy limitations. For further insights, access to our project video, presentation slides, and code repository is provided, showcasing the feasibility of automated suturing using an existing robotic arm and paving the way for enhanced surgical automation and precision.
