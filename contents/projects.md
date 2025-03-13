@@ -1,7 +1,9 @@
 #### Kelp Segmentation 
 This project introduces the problem of kelp forest conservation, highlighting the ecological and economic significance of these marine habitats while addressing threats like climate change and overfishing. We propose leveraging technology, specifically satellite imagery and machine learning, to monitor and protect kelp forests. Our main focus was on developing a convolutional neural network (CNN) model for kelp segmentation, using various satellite image channels like SWIR, NIR, and NDVI. We compare our approach with existing literature, showcasing advancements and challenges in kelp detection. We detail the UNET architecture used, along with experiments on model parameters and data preprocessing techniques. Our results indicate progress but also reveal challenges like computational resource limitations and dataset errors. Future directions include refining the model, improving computational efficiency, and deploying it in real-world scenarios for practical conservation efforts.
 
-![Results of Kelp Segmentation Model](https://github.com/TofunmiSodimu/TofunmiSodimu.github.io/assets/35805326/f8ca232c-8f8b-41bd-8c09-2eaab24708ac)
+<p align="center">
+  ![Results of Kelp Segmentation Model](https://github.com/TofunmiSodimu/TofunmiSodimu.github.io/assets/35805326/f8ca232c-8f8b-41bd-8c09-2eaab24708ac)
+</p>
 *Results of Kelp Segmentation Model.*
 
 Skills/FrameWorks/Tools Used: Python programming, Convolutional Neural Networks, Deep Learning, Pytorch, Tensorflow, Scikit Learn, MatplotLib, Numpy, Pandas
@@ -22,8 +24,9 @@ Skills/FrameWorks/Tools Used: Python programming, Robotic Operating System (ROS)
 
 [Robotic Assistant Repo](https://github.com/JuanRobledo12/blue_stretch)
 
-[![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
-
+<p align="center">
+  [![Video describing process](static/assets/img/THUMBNAIL.png)](https://www.youtube.com/watch?v=QUB79UTbwvE)
+</p>
 #### Path Planning to Control Robotic Arm for Suturing
 In this work, my partner and I conduct path planning and end effector modifications for a 5 DOF xARM robot, computing forward kinematics and implementing resolved rates for path planning, with findings transferred to the physical robot using Arduino. Additionally, we provide access to MATLAB code for simulations and final demo videos. Suturing, a critical medical procedure, often poses challenges such as tediousness and dependency on practitioner dexterity, motivating the need for automation, particularly in minimally-invasive procedures. While existing Robotic Surgical Assistants (RSAs) address this need, we aim to demonstrate automated suturing with an already available robotic arm, from assembly to modifications, forward kinematics determination, path planning, and communication establishment. The 5 DOF + gripper robotic arm, purchased from Lewansoul, is described along with modifications to enhance needle grip. Forward kinematics are derived and validated through MATLAB simulations, and path planning involves resolved rates algorithm implementation for both straight needle insertion and scenarios with constrained joint angles. Communication between the robotic arm, MATLAB, and Arduino is established for control and feedback. A tissue replica is developed to demonstrate suturing, with adjustments made to accommodate the robotic arm's accuracy limitations. For further insights, access to our project video, presentation slides, and code repository is provided, showcasing the feasibility of automated suturing using an existing robotic arm and paving the way for enhanced surgical automation and precision.
 
