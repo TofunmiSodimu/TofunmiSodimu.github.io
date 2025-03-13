@@ -1,7 +1,6 @@
 I am interested in developing robots that improve the quality of life of individuals across all stages of life. I have experience working on a variety of robotics/medical devices projects, from designing and building prototypes to programming them. These projects have aided in the development of my research skills and increased my knowledge on the topics of robotics, engineering, medicine, optics and imaging.
 
 #### Email
-tofunmi.sodimu@gatech.edu
 tofsodimu@gmail.com
 
 #### Linkedin
