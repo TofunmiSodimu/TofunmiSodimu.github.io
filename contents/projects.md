@@ -2,7 +2,7 @@
 This project introduces the problem of kelp forest conservation, highlighting the ecological and economic significance of these marine habitats while addressing threats like climate change and overfishing. We propose leveraging technology, specifically satellite imagery and machine learning, to monitor and protect kelp forests. Our main focus was on developing a convolutional neural network (CNN) model for kelp segmentation, using various satellite image channels like SWIR, NIR, and NDVI. We compare our approach with existing literature, showcasing advancements and challenges in kelp detection. We detail the UNET architecture used, along with experiments on model parameters and data preprocessing techniques. Our results indicate progress but also reveal challenges like computational resource limitations and dataset errors. Future directions include refining the model, improving computational efficiency, and deploying it in real-world scenarios for practical conservation efforts.
 
 <p align="center">
-  ![Results of Kelp Segmentation Model](https://github.com/TofunmiSodimu/TofunmiSodimu.github.io/assets/35805326/f8ca232c-8f8b-41bd-8c09-2eaab24708ac)
+  <img src="static/assets/img/kelp.png" alt="Results of Kelp Segmentation" width="500"/>
 </p>
 *Results of Kelp Segmentation Model.*
 
